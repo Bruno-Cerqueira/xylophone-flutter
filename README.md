@@ -1,20 +1,37 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
-
-
 # Xylophone 🎹
 
-## Our Goal
+<!-- TABLE OF CONTENTS -->
 
-In this tutorial we will be diving into more Dart programming concepts and learning how to use open source Flutter packages. By the end of this module, you should be comfortable using Flutter packages and building repeated widgets.
+## Table of Contents
 
+- [About the Project](#about-the-project)
+  - [Built With](#built-with)
+  - [Run App](#run-app)
+  - [Further Help](#further-help)
+- [What I will learn](#what-i-will-learn)
+- [Roadmap](#roadmap)
+- [Contact](#contact)
+- [Acknowledgements](#acknowledgements)
 
-## What you will create
+<!-- ABOUT THE PROJECT -->
 
-We’re going to make a music app that plays Xylophone sounds. For every Beethoven out there, this will let you unleash your musical talent where ever you are. 
+## About The Project
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/xylophone-flutter.png)
+Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase. This is project is to practice flutter and learn having fun! In this app I will learn how to use Flutter packages and building repeated widgets.
 
-## What you will learn
+### Built With
+
+- [Flutter](https://flutter.dev/)
+
+### Run App
+
+Run `flutter run` to build the project. the project will be running on a virtual device.
+
+### Further help
+
+Visit the [Flutter docs](https://flutter.dev/docs).
+
+## What I will learn
 
 - How to incorporate open source libraries of code into your project using Flutter Packages.
 - How to play sound on both iOS and Android.
@@ -22,6 +39,24 @@ We’re going to make a music app that plays Xylophone sounds. For every Beethov
 - How to use Dart functions that can take input arguments as well as return an output.
 - Dart arrow syntax for writing one line functions.
 
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+<!-- ROADMAP -->
 
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+## Roadmap
+
+See the [open issues](https://github.com/Bruno-Cerqueira/xylophone-flutter/issues) for a list of proposed features (and known issues).
+
+<!-- CONTACT -->
+
+## Contact
+
+Bruno Cerqueira - brunocerqueirasd@gmail.com
+
+Project Link: [https://github.com/Bruno-Cerqueira/xylophone-flutter](https://github.com/Bruno-Cerqueira/xylophone-flutter)
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## Acknowledgements
+
+- [Amaizing flutter course](https://www.udemy.com/course/flutter-bootcamp-with-dart/)
+
+- [Based Github project](https://github.com/londonappbrewery/xylophone-flutter)
